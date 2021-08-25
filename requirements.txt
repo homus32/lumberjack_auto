@@ -1,0 +1,6 @@
+autopy
+keyboard
+mss
+numpy
+opencv-python
+Pillow
